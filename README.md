@@ -7,3 +7,5 @@ For testing and running the code , you can use Google Colab or jupyter notebook 
 
 2. To run on VSCode or PyCharm , open the file named 'atg_assessment_aishwaryakale.py' in the editor and run 'python atg_assessment_aishwaryakale.py' to check the output of the code.
 
+You can change the parameters of the function in the main function.
+
